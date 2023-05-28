@@ -62,7 +62,6 @@ for (i = 0; i <= 10; i++) {
 }
 
 //Once//
-// Ya me ha salido el código cómo debería ser. Nos faltaba sumar postI = postI + postJ++, que es lo mismo que postI += postJ++;.d
 let postI = 0;
 let postJ = 0;
 
@@ -73,7 +72,6 @@ for (let i = 0; i <= 10; i++) {
 }
 
 //Doce//
-// Ya me ha salido el código cómo debería ser. Nos faltaba sumar sumaPares = sumapares + i. Así si que da 20 poniendo i < 10 como dice el enunciado.
 let sumaPares = 0;
 
 for (let i = 0; i < 10; i++) {
